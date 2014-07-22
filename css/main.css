@@ -16,6 +16,25 @@ section {
 
 h1.title {
   border-bottom: 1px solid #333;
+  text-shadow: 1.5px 1.5px 2px orange;
+}
+
+h2 {
+	font-family: cursive;
+	color: #bada55;
+}
+
+h3 {
+	font-family: Baskerville, Georgia, serif;
+	color: rgba(0, 0, 0, .4);
+}
+
+h4 {
+	background-color: purple;
+}
+
+section {
+	background-color: rgba(111, 222, 333, .4);
 }
 
 .formelement {
